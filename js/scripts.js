@@ -40,3 +40,14 @@
         target: "#sideNav",
     });
 })(jQuery); // End of use strict
+
+
+const scriptURL = 'https://script.google.com/macros/s/AKfycbwCugeKTYB5cl-ltnlktEF32aIPY_SGAkl-WDwIVVXpgF7RoNcv/exec'
+  const form = document.forms['submit-to-google-sheet']
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => console.log('Success!', response),alert("Thank you for the message!!!"),form.reset())
+      .catch(error => console.error('Error!', error.message))
+  })
+ 

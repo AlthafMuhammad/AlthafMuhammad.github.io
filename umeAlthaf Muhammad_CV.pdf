@@ -1,0 +1,207 @@
+[33mcommit 5aa77b18f52c9675a571e428d47bfeb8cf4f2939[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Althaf Muhammad <althafmuhammad33@gmail.com>
+Date:   Wed Jan 31 22:58:00 2024 +0000
+
+    CV Updated
+
+[1mdiff --git a/resume/Althaf Muhammad_CV.pdf b/resume/Althaf Muhammad_CV.pdf[m
+[1mindex 3fdc013..598bbf1 100644[m
+[1m--- a/resume/Althaf Muhammad_CV.pdf[m	
+[1m+++ b/resume/Althaf Muhammad_CV.pdf[m	
+[36m@@ -1,52 +1,51 @@[m
+[31m-ALTHAF MUHAMMAD[m
+[32m+[m[32m            ALTHAF MUHAMMAD[m
+ [m
+[31m-MSc. Business Management | CS Engineer[m
+[32m+[m[32m            MSc. Business Management | CS Engineer[m
+ [m
+[31m-  80 North Road, Cardiff,          +44 7825 126938                                 althafmuhammad@ieee.org[m
+[31m-CF10 3DZ, United Kingdom     althafmuhammad.github.io                              linkedin/in/althafmuhammad[m
+[32m+[m[32m  80 North Road, Cardiff,        +44 7825 126938                      althafmuhammad@ieee.org[m
+[32m+[m[32mCF10 3DZ, United Kingdom   althafmuhammad.github.io                linkedin.com/in/althafmuhammad[m
+ [m
+[31m-                                                 OBJECTIVES[m
+[32m+[m[32m                                                           OBJECTIVES[m
+ [m
+ An enthusiastic business management graduate with a computer science and engineering background and a stalwart volunteer[m
+ with a sincere and positive commitment to every task. A highly organised and hard-working individual looking for a responsible[m
+ position to gain practical experience. An effective team player with the ability to lead and collaborate toward business needs.[m
+ [m
+[31m-EDUCATION —                                      EXPERIENCE[m
+[32m+[m[32mEDUCATION[m
+ [m
+[31m-MSc. Business Management Sep 2021 – Sep 2022     Recruitment Advisor                             Sep 2022 - Present[m
+[31m-Cardiff University, United Kingdom[m
+[31m-                                                 NHS Wales Shared Services Partnership[m
+[31m-    • Completed a Consultancy Project[m
+[31m-                                                                   • Administration of the recruitment process for[m
+[31m-B.Tech Computer Science Aug 2016 – Sep 2020[m
+[31m-and Engineering                                                    medical and non-medical areas of NHS Wales[m
+[31m-APJ Abdul Kalam Technological University, India[m
+[31m-CGPA: 7.09/10                                    Crew Member – Part-Time                         Oct 2021 – Jul 2022[m
+[32m+[m[32mMSc. Business Management |Cardiff University, United Kingdom                               Sep 2021 – Sep 2022[m
+[32m+[m[32mGrade: Merit                                                                               Aug 2016 – Sep 2020[m
+ [m
+[31m-    • Final year project on Emotion Recognition  McDonald’s, Cardiff, UK[m
+[31m-         using Artificial Intelligence.[m
+[31m-                                                                   • Working in a fast moving, high energy environment[m
+[32m+[m[32m    • Completed a Consultancy Project                                                                2014 – 2016[m
+[32m+[m[32m                                                                                                     2013 – 2014[m
+[32m+[m[32mB.Tech Computer Science and Engineering | APJ Abdul Kalam Technological University, India[m
+[32m+[m[32mCGPA: 7.09/10[m
+ [m
+[31m-                                                                   providing the best customer experience.[m
+[32m+[m[32m    • Final year project on Emotion Recognition using Artificial Intelligence[m
+ [m
+[31m-                                                 System Engineer - Infosys, India                Mar 2021 – Jul 2021[m
+[32m+[m[32mClass 12 (Equiv. A-Levels) |Mar Dionysius School, India[m
+[32m+[m[32mPercentage: 81.6%[m
+ [m
+[31m-                                                                   • One of the largest Indian multinational IT Firm[m
+[32m+[m[32mClass 10 (Equiv. GCSE) | Mar Dionysius School, India[m
+[32m+[m[32mCGPA: 10.0/10.0[m
+ [m
+[31m-                                                                   • Training for Java Angular Full Stack Web Development[m
+[32m+[m[32mEXPERIENCE[m
+ [m
+[31m-Class 12 (Equiv. A-Levels)   2014 – 2016         Intern - Accubits Technologies,                                      Jul 2018[m
+[31m-                             2013 – 2014[m
+[31m-Mar Dionysius School, India                      Trivandrum, India[m
+[31m-Percentage: 81.6%[m
+[31m-Class 10 (Equiv. GCSE)                                             • Web Development Internship[m
+[32m+[m[32mRecruitment Advisor |NHS Wales Shared Services Partnership                                 Sep 2022 – Present[m
+[32m+[m[32m                                                                                           Oct 2021 – Jul 2022[m
+[32m+[m[32m    • Administration of the recruitment process for medical and non-medical areas of       Mar 2021 – Jul 2021[m
+[32m+[m[32m         NHS Wales[m
+[32m+[m
+[32m+[m[32mCrew Member | McDonald’s, Cardiff, UK[m
+ [m
+[31m-Mar Dionysius School, India                      Intern - Audrey Technologies, Kochi,                                 Jul 2017[m
+[31m-CGPA: 10.0/10.0                                  India[m
+[32m+[m[32m    • Working in a fast-moving, high-energy environment providing the best customer[m
+[32m+[m[32m         experience.[m
+ [m
+[31m-                                                     • Java Internship[m
+[32m+[m[32mSystem Engineer | Infosys, India[m
+[32m+[m[32m    • One of the largest Indian multinational IT Firm[m
+[32m+[m[32m    • Training for Java Angular Full Stack Web Development[m
+ [m
+[31m-                             AWARDS AND CERTIFICATIONS[m
+[32m+[m[32m                           AWARDS AND CERTIFICATIONS[m
+ [m
+ • Google Fundamentals of Digital Marketing Certified (2020).[m
+ • Best Volunteer Award, IEEE Computer Society, Kerala Chapter (2018).[m
+[36m@@ -54,77 +53,76 @@[m [mCGPA: 10.0/10.0                                  India[m
+ [m
+       India Newsletter Compute Edition 8 (2020).[m
+ [m
+[31m-                                                 SOFT SKILLS[m
+[31m-[m
+[31m-Communication & Networking: Interacted with many students          Public Speaking: Delivered around 18 webinars for almost[m
+[31m-and professionals face to face and digitally while organising and  1500+ students capturing audience attention both face to face[m
+[31m-volunteering at various events.                                    and online.[m
+[31m-Management & Leadership: Volunteered and organised                 Marketing: Publicity and Marketing Lead for various events[m
+[31m-various events and initiatives while volunteering with             and initiatives.[m
+[31m-organisations such as IEEE.[m
+[31m-Customer Service: Working Part-Time in McDonald’s and              Interpersonal Skills: Worked effectively in various teams of[m
+[31m-interacting with customers and enhancing their experience.         varied sizes and diversities.[m
+[31m-                                                      TECHNICAL SKILLS[m
+[31m-[m
+[31m-Languages and Database:[m
+[31m-[m
+[31m-C Programming | Python Programming | Java | MySQL | C++ Programming | HTML, CSS[m
+[31m-[m
+[31m-Tools and Technologies:[m
+[31m-[m
+[31m-Git | Microsoft Office | Adobe Photoshop | Eclipse | VS Code | Google Docs, Slides, Sheets[m
+[31m-[m
+[32m+[m[32m                           SOFT SKILLS[m
+[32m+[m
+[32m+[m[32mCommunication and Networking: Interacted with many students        Public Speaking: Delivered around 18 webinars for almost[m
+[32m+[m[32mand professionals face-to-face and digitally while organising and  1500+ students capturing audience attention both face-to-[m
+[32m+[m[32mvolunteering at various events.                                    face and online.[m
+[32m+[m[32mManagement and Leadership: Volunteered and executed various        Marketing: Publicity and Marketing Lead for various events[m
+[32m+[m[32mevents and initiatives while volunteering with organisations such  and initiatives.[m
+[32m+[m[32mas IEEE.[m
+[32m+[m[32mCustomer Service: Working Part-Time in McDonald’s interacting      Interpersonal Skills: Collaborated effectively in various[m
+[32m+[m[32mwith customers and enhancing their experience.                     teams of varied sizes and diversities.[m
+[32m+[m[32mLanguages and Database:                               TECHNICAL SKILLS[m
+[32m+[m
+[32m+[m[32m     • C Programming                                                   Tools and Technologies:[m
+[32m+[m[32m     • Python Programming[m
+[32m+[m[32m     • Java                                                                    • Git[m
+[32m+[m[32m     • MySQL                                                                   • Microsoft Office[m
+[32m+[m[32m     • C++ Programming                                                         • Adobe Photoshop[m
+[32m+[m[32m                                                                               • Eclipse[m
+[32m+[m[32m    • HTML, CSS, JavaScript                                                    • VS Code[m
+[32m+[m
+[32m+[m[32m                                                                            • Google Docs, Slides, Sheets[m
+                                                   VOLUNTEER ROLES AND[m
+[32m+[m
+                                                       RESPONSIBILITIES[m
+ [m
+[31m-Founder and Lead Volunteer, IEEE KYP Global Outreach Initiative                             Apr 2021 – Dec 2021[m
+[32m+[m[32mFounder and Lead Volunteer, IEEE KYP Global Outreach Initiative                                            Apr 2021 – Dec 2021[m
+ [m
+ A pilot global initiative for students and professionals to showcase cultural and professional diversities on a virtual global[m
+ platform. Won the best event award in the year 2021 from IEEE Kerala Section.[m
+ [m
+[31m-Public Relations Coordinator, IEEE Kerala Young Professionals Team                          Feb 2021 – Dec 2021[m
+[32m+[m[32mPublic Relations Coordinator, IEEE Kerala Young Professionals Team                                         Feb 2021 – Dec 2021[m
+ [m
+ Coordinates public relations initiatives and marketing of events and activities for students and young professionals.[m
+ [m
+[31m-Editor in Chief, IEEE CS Compute                                                            Dec 2019 – Nov 2020[m
+[32m+[m[32mEditor in Chief, IEEE CS Compute                                                                           Dec 2019 – Nov 2020[m
+ [m
+ Lead a team of 35 active volunteers from all over India. Coordinated activities from planning to publishing the official[m
+ [m
+ newsletter of the IEEE Computer Society India.[m
+ [m
+[31m-Initiative Lead, Scholarship Outreach Initiative                                            Apr 2020 – Jun 2020[m
+[32m+[m[32mInitiative Lead, Scholarship Outreach Initiative                                                           Apr 2020 – Jun 2020[m
+ [m
+ Create awareness of prestigious scholarships offered by the IEEE Computer Society and assisted with scholarship applications.[m
+ [m
+ Elevated the initiative to a global level and lead a team of 20 volunteers across the globe to coordinate activities.[m
+ [m
+[31m-Chairman, IEEE Computer Society Chapter, College of Engineering Munnar                      Jan 2019 – Feb 2020[m
+[32m+[m[32mChairman, IEEE Computer Society Chapter, College of Engineering Munnar                                     Jan 2019 – Feb 2020[m
+ [m
+ Organised events including keynote speakers, workshops, and conferences for the students at the college resulting in 100+[m
+ [m
+ attendees.[m
+ [m
+[31m-Program Committee Chair, Kaizen, The National Level Technical Symposium                     Nov 2019 – Feb 2020[m
+[32m+[m[32mProgram Committee Chair, Kaizen, The National Level Technical Symposium                                    Nov 2019 – Feb 2020[m
+ [m
+ Organised and coordinated the national-level technical symposium by IEEE SB CEM, which had more than 250 participants[m
+ [m
+ across different parts of the country.[m
+ [m
+[31m-Kerala Section Lead, IEEEXtreme 13.0                                                        Jul 2019 – Jan 2020[m
+[32m+[m[32mKerala Section Lead, IEEEXtreme 13.0                                                                       Jul 2019 – Jan 2020[m
+ [m
+[31m-Coordinated student ambassadors from Kerala Section to promote the IEEEXtreme Programming Competition. Arranged the[m
+[32m+[m[32mMonitored student ambassadors from Kerala Section to promote the IEEEXtreme Programming Competition. Arranged the[m
+ [m
+ venue, provided refreshments and coordinated the events.[m
+ [m
+[31m-Duty Head, Training and Placement Cell College of Engineering Munnar                        Jan 2019 – May 2019[m
+[31m-[m
+[31m-Organised careers and placement drives, facilitating interactions between employees and students to increase positive[m
+[31m-destinates of students securing graduate jobs.[m
+[32m+[m[32mDuty Head, Training and Placement Cell College of Engineering Munnar                                       Jan 2019 – May 2019[m
+ [m
+[31m-                                          ADDITIONAL INFORMATION[m
+[31m-• Full UK Manual Driving Licence[m
+[32m+[m[32mOperated careers and placement drives, facilitating interactions between employees and students to increase positive[m
+[32m+[m[32mdestinates of students securing graduate jobs.S[m
+ [m
+[31m-                                                  REFERENCES[m
+[32m+[m[32m                                        ADDITIONAL INFORMATION[m
+ [m
+[31m-[Available upon request.][m
+[32m+[m[32m• Full clean UK Manual Driving Licence[m
+ [m
+\ No newline at end of file[m
